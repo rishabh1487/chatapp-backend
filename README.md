@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-https://talk-a-tive.herokuapp.com/
+[Website](https://voluble-faloodeh-6a6e49.netlify.app/)
 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
@@ -21,7 +21,7 @@ https://talk-a-tive.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/rishabh1487/chatapp-backend.git
 ```
 
 Go to the project directory
@@ -73,9 +73,9 @@ Start the Client
 ### Add or Remove users from group
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+![](https://github.com/rishabh1487/chatapp-backend/assets/80620664/5c1161c8-3788-4cf3-a7be-0f6d76044710)
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+- [@Rishabh-Rai](https://github.com/rishabh1487)
 
   
